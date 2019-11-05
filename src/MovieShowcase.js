@@ -9,7 +9,7 @@ export default class MovieShowcase extends Component {
     );
     
     return (
-      <ul>{generateMovieCards}</ul>
+      <li>{generateMovieCards}</li>
     )
   }
 
