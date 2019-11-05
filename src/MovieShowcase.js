@@ -6,7 +6,7 @@ export default class MovieShowcase extends Component {
 
   generateMovieCards = () => {
     return 
-     <li>{this.props.</li>
+     <li>{this.props.movieData.</li>
 
   },
 
