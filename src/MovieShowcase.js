@@ -7,7 +7,7 @@ export default class MovieShowcase extends Component {
   generateMovieCards = () => {
     return 
       this.state.movieData.map((title, IMDBRating, genres, poster) => <li>{item}</li>
-      
+
   },
 
   render() {
