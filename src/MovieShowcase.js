@@ -8,7 +8,7 @@ export default class MovieShowcase extends Component {
     return 
      <li>{this.props.movieData.title}{this.props.movieData.IMDBRating}</li>
 
-  },
+  }
 
   render() {
     return (
